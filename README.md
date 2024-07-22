@@ -1,1 +1,1 @@
-# entrega-html-dio
+# Entrega das aulas de HTML do curso da DIO
